@@ -4,9 +4,9 @@
 
 N/A
 
-### Description
+### TODO
 
-<!--- Describe your changes in detail -->
+<!--- Describe what is left to finish the above task -->
 
 N/A
 
@@ -17,3 +17,5 @@ N/A
 N/A
 
 ### Screenshots (if appropriate):
+
+N/A
