@@ -29,7 +29,6 @@ const theme = {
       800: '#000112',
     },
   },
-
   width: breakPoints,
   minWidth: breakPoints,
   maxWidth: breakPoints,
